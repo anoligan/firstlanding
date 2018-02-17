@@ -1,0 +1,142 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding:0;
+    margin: 0;
+}
+.cbalink { 
+    display: none; 
+}
+header {
+    background: url(../img/bgheader.jpg) no-repeat center top / cover;
+    padding-bottom: 150px;
+}
+.container1 {
+    background: rgb(51, 29, 19);
+    width: 100%;
+    margin: 0 auto;
+    position: fixed;
+}
+.logo {
+    margin-top: 0px;
+    margin-left:20px;
+}
+nav {
+    float: right;
+}
+.menu {
+    padding: 40px;
+    margin: 0;
+    display: block;
+}
+.menu li {
+    display: inline;
+    margin: 30px;
+}
+.menu li a {
+    color: papayawhip;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.title {
+    font-size: 24px;
+    color: rgb(224, 50, 26);
+    text-align: center;
+    padding: 250px 200px 50px 200px;
+    text-shadow: rgb(51, 29, 19) 1px 1px;
+}
+h1 {
+    font-size: 48px;
+    color: papayawhip;
+    margin: 50px 0 60px 0;
+    text-align: center;
+    text-shadow: rgb(51, 29, 19) 2px 3px;
+}
+.buttond {
+    background: rgb(240, 216, 8);
+    color: rgb(11, 63, 27);
+    border-radius: 10px;
+    display: block;
+    text-align: center;
+    width: 240px;
+    padding:20px 0;
+    margin: auto;
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.species {
+    margin: 100px 0 50px 0;
+    text-align: center
+}
+h2 {
+    font-size: 24px;
+    color: black;
+    margin: 100px 0 0px  0;
+    text-transform: uppercase;
+    text-align: center;
+}
+#crisis {
+    font-size: 22px;
+    color: darkred;
+    margin: 20px 0 50px 0 ;
+    text-align: center;
+}
+.report {
+    float: left;
+    margin: 0 20px 10px 10px;
+}
+.foto1 p{
+    font-size: 18px;
+    color: rgb(11, 63, 87);
+    text-align: left;
+    text-indent: 20px;
+}
+.item h2{
+   text-align: center;
+   margin: 150px 0 50px 0;
+   color: darkcyan;
+}
+.eleph li{
+    width: 400px;
+    margin: 50px 0 0 30;
+    display: inline-block;
+}
+.eleph h3 {
+    font-size: 18px;
+    text-align: center;
+}
+.eleph p{
+    font-size: 15px;
+    width: 300px;
+    margin: 0 0 0px 50px;
+}
+.item {
+    text-align: center;
+}
+.donate h2{
+    color: rgb(218, 60, 60);
+    
+}
+.donate h3{
+    color: darkcyan;
+    text-align: center;
+    margin: 10px 0 50px 0;
+}
+.pay li {
+    background: rgb(240, 216, 8);
+    color: rgb(11, 63, 27);
+    border-radius: 10px;
+    display: inline-block;
+    text-align: center;
+    width: 240px;
+    padding:20px 0 20px 0;
+    margin: 0 0 25px 550px;
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
